@@ -1,0 +1,5 @@
+HW2: Hash Key
+
+  Given 100 passwords. Use 1000 salts and hash function to generate the hash value, 100000 values in total.
+  
+  Finally, we can verify that if the hash value we enter correspond to one of the passwords.

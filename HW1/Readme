@@ -1,1 +1,8 @@
 
+HW1: Page Rank
+
+  Given 500 Pages, each of them contains pages that it connects to.
+
+  Calculate the page rank according to this.
+
+  Lastly, create a search engine that outputs the pages in the order of this page rank.
